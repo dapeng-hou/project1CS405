@@ -1,0 +1,25 @@
+{
+    "Process1": {
+        "0": {"arrive": 3},
+		"1": {"priority": 2},
+        "2": {"CPUburst": 5},
+        "3": {"IOburst": 4},
+		"4": {"CPUburst": 8},
+        "5": {"IOburst": 2},
+		"6": {"CPUburst": 9}
+    },
+    "Process2": {
+        "0": {"arrive": 4},
+        "1": {"priority": 4},
+        "2": {"CPUburst": 25}
+    },
+    "Process3": {
+        "0": {"arrive": 10},
+        "1": {"priority": 2},
+        "2": {"CPUburst": 9},
+        "3": {"IOburst": 2},
+		"4": {"CPUburst": 7},
+        "5": {"IOburst": 3},
+		"6": {"CPUburst": 8}
+    }
+} 
